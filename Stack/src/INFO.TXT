@@ -1,0 +1,12 @@
+Where can stack be Used?
+1: Implementing Undo in application
+2: Back Button in we browser
+3:Holding the Memory for Recurise call in a programing language
+
+
+Find the Minimum Elment in a stack in a constant TIme ?
+ Sol: Maintain Two stack:
+        orginal Stack
+        Minimum stack
+
+
